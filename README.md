@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # WeatherSense AI — AI-Powered Weather Monitoring System
 
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
@@ -215,3 +216,6 @@ For computer science and electronics engineering presentations:
 ## 10. License
 
 This project is licensed under the **Apache-2.0 License**.
+=======
+# weathersense-ai
+>>>>>>> 3abca5ee5720ee7a74e394e94cab7f781a733f74
